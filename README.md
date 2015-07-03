@@ -12,11 +12,10 @@ has been included to aid you in your development.
 * Clone this repo
 * Run `vagrant up` from inside the repository directory
 
-You should now have a `elasticsearch` server up and running and reachable
+You should now have a `elasticsearch` server up and running and reachable 
 from your host machine on
 
     http://localhost:9200
-
 
 ## Included Plugins
 
